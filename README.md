@@ -9,7 +9,7 @@ DrawNow
 #### Software Architecture
 Software architecture description
 1. Core: DrawNow's basic skill. (Done,may be.)
-2. Script: Allow adding a lua file to a DrawNow's item to achieve some unbelieve skill.(Developing...)
+2. Script: Allow adding a lua file to a DrawNow's item to achieve some unbelieveable skill.(Developing...)
 
 #### Installation
 
